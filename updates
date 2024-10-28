@@ -1,0 +1,9 @@
+Version 1.26.5 - 2024-08-15
+- Introduced dynamic control points with randomized offsets to mimic human movement.
+- Implemented initial jitter functionality for more realistic targeting behavior.
+- Optimized mouse movement to include random control points, enhancing detection avoidance.
+- Improved GUI with new color-coded logging for better readability.
+- Added Low CPU mode to minimize resource usage, maintaining 3-4% CPU consumption.
+- Improved bot pathing to handle large distances more naturally with smoother transitions.
+- Introduced new error handling for GUI interactions, reducing crashes on high load.
+- Minor adjustments to control point generation for improved human-like behavior.
