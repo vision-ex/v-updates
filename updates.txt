@@ -1,4 +1,5 @@
 Version 1.27:
+
 - Enhanced Target Prediction with Momentum Simulation: Improved tracking accuracy.
 - Adaptive Mouse Jitter and Path Variability: More natural movements with randomized pauses.
 - Optimized Easing Functions: Smoother, human-like mouse motions.
