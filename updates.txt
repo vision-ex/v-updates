@@ -1,8 +1,9 @@
-Version 1.26.5:
-- Introduced dynamic control points with randomized offsets to mimic human movement.
-- Implemented initial jitter functionality for more realistic targeting behavior.
-- Optimized mouse movement to include random control points, enhancing detection avoidance.
-- Added Low CPU mode to minimize resource usage, maintaining 3-4% CPU consumption.
-- Improved bot pathing to handle large distances more naturally with smoother transitions.
-- Introduced new error handling for GUI interactions, reducing crashes on high load.
-- Minor adjustments to control point generation for improved human-like behavior.
+Version 1.27:
+------------
+- Enhanced Target Prediction with Momentum Simulation: Improved tracking accuracy for moving NPCs and players.
+- Adaptive Mouse Jitter and Path Variability: More natural movements with randomized pauses.
+- Optimized Easing Functions: Smoother, human-like mouse motions.
+- Improved CPU Efficiency: Low CPU mode enabled by default for minimal resource usage.
+- Redesigned UI: Updated layout with icons for a cleaner interface.
+- Enhanced Error Handling: Clearer error messages for missing scripts and load issues.
+- Accurate Bounds Detection: Fixed resolution issues for better screen detection.
